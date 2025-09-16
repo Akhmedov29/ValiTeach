@@ -2,17 +2,17 @@ const baseLinks = [
   {
     text: "Foundation",
     href: "/cources/foundation",
-    logo: "public/Kurs-images/foundation.webp",
+    logo: "/Kurs-images/foundation.webp",
   },
   {
     text: "TypeScript",
     href: "/cources/typescript",
-    logo: "public/Kurs-images/ts.webp",
+    logo: "/Kurs-images/ts.webp",
   },
   {
     text: "JavaScript",
     href: "/cources/javascript",
-    logo: "public/Kurs-images/js.webp",
+    logo: "/Kurs-images/js.webp",
   },
   {
     text: "React.js",
