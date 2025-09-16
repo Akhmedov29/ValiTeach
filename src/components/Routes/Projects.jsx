@@ -9,7 +9,7 @@ const Projects = ({ limit }) => {
   return (
     <div className="flex flex-col gap-8">
       <div>
-        <Link to="/codefiles" className="flex items-end gap-3 text-3xl">
+        <Link to="/project" className="flex items-end gap-3 text-3xl">
           Loyihalar
           <i className="lni lni-arrow-right transition-transform duration-300 ease-in-out hover:translate-x-2 text-green-200"></i>
         </Link>
