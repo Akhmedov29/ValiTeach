@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import telegram from '../../../../../public/Kurs-images/tg-clone.webp'
+import telegram from '/Kurs-images/tg-clone.webp'
 
 function Tg() {
   return (

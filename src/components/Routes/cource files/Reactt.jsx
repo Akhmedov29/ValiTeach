@@ -1,4 +1,6 @@
 import { Link } from "react-router-dom";
+import reactt from '/Kurs-images/jsx.webp'
+
 
 function Reactt() {
   return (
@@ -49,7 +51,7 @@ function Reactt() {
         {/* Right: React Logo with Play Button */}
         <div className="relative w-72 h-44 flex-shrink-0">
           <img
-            src="/public/Kurs-images/jsx.webp" // pathni moslashtiring
+            src={reactt} // pathni moslashtiring
             alt="React Logo"
             className="w-full h-full object-contain rounded-md"
           />

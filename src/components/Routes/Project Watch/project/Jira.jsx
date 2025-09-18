@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import jira from '../../../../../public/Kurs-images/jira-clone.webp'
+import jira from '/Kurs-images/jira-clone.webp'
 
 function Jira() {
   return (

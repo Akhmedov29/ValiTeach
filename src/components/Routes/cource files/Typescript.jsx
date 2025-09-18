@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import typescript from '/Kurs-images/ts.webp'
 
 function Typescript() {
   return (
@@ -51,7 +52,7 @@ function Typescript() {
         {/* Right: React Logo with Play Button */}
         <div className="relative w-72 h-44 flex-shrink-0">
           <img
-            src="/public/Kurs-images/ts.webp" // pathni moslashtiring
+            src={typescript} // pathni moslashtiring
             alt="React Logo"
             className="w-full h-full object-contain rounded-md"
           />

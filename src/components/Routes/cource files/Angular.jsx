@@ -1,5 +1,5 @@
 import React from "react";
-import angular from "../../../../public/Kurs-images/angular.webp";
+import angular from "/Kurs-images/angular.webp";
 import { Link } from "react-router-dom";
 
 function Angular() {

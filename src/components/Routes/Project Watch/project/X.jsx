@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import x from '../../../../../public/Kurs-images/x-clone.webp'
+import x from '/Kurs-images/x-clone.webp'
 
 function X() {
   return (

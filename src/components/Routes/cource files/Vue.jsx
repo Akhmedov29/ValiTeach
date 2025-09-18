@@ -1,4 +1,6 @@
 import { Link } from "react-router-dom";
+import vue from '/Kurs-images/v.webp'
+
 
 function Vue() {
   return (
@@ -50,7 +52,7 @@ function Vue() {
         {/* Right: React Logo with Play Button */}
         <div className="relative w-72 h-44 flex-shrink-0">
           <img
-            src="/public/Kurs-images/v.webp" // pathni moslashtiring
+            src={vue} // pathni moslashtiring
             alt="React Logo"
             className="w-full h-full object-contain rounded-md"
           />

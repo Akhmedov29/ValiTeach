@@ -17,17 +17,17 @@ const baseLinks = [
   {
     text: "React.js",
     href: "/cources/react",
-    logo: "public/Kurs-images/jsx.webp",
+    logo: "/Kurs-images/jsx.webp",
   },
   {
     text: "Vue.js",
     href: "/cources/vue",
-    logo: "public/Kurs-images/v.webp",
+    logo: "/Kurs-images/v.webp",
   },
   {
     text: "Angular",
     href: "/cources/angular",
-    logo: "public/Kurs-images/angular.webp",
+    logo: "/Kurs-images/angular.webp",
   },
 ];
 

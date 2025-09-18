@@ -1,6 +1,5 @@
 import { CourceLinks } from "../../constants/Cource";
 import { Link } from "react-router-dom";
-import { FaArrowRight } from "react-icons/fa";
 
 function Cources({ limit }) {
   const displayedCources = limit ? CourceLinks.slice(0, limit) : CourceLinks;

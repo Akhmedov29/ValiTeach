@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import netflix from '../../../../../public/Kurs-images/Netflix-clone.webp'
+import netflix from '/Kurs-images/Netflix-clone.webp'
 
 function Netflix() {
   return (

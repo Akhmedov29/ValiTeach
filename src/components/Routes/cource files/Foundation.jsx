@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import foundation from '/Kurs-images/foundation.webp'
 
 function Foundation() {
   return (
@@ -46,7 +47,7 @@ function Foundation() {
         {/* Right: React Logo with Play Button */}
         <div className="relative w-72 h-44 flex-shrink-0">
           <img
-            src="/public/Kurs-images/foundation.webp" // pathni moslashtiring
+            src={foundation} // pathni moslashtiring
             alt="React Logo"
             className="w-full h-full object-contain rounded-md"
           />

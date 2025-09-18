@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import drive from '../../../../../public/Kurs-images/drive-clone.webp'
+import drive from '/Kurs-images/drive-clone.webp'
 
 
 function Drive() {

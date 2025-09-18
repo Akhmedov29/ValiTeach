@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import bot from '../../../../../public/Kurs-images/tg_bot-clone.webp'
+import bot from '/Kurs-images/tg_bot-clone.webp'
 
 function Tgbot() {
   return (

@@ -21,12 +21,12 @@ import Vue from "./components/Routes/cource files/Vue";
 import Angular from "./components/Routes/cource files/Angular";
 import Foundation from "./components/Routes/cource files/Foundation";
 
-import JavaScriptW from "./components/Routes/cource files/Cource watch/JavaScriptW";
-import TypescriptW from "./components/Routes/cource files/Cource watch/TypescriptW";
-import VueW from "./components/Routes/cource files/Cource watch/VueW";
-import ReacttW from "./components/Routes/cource files/Cource watch/ReacttW";
-import AngularW from "./components/Routes/cource files/Cource watch/AngularW";
-import FoundationW from "./components/Routes/cource files/Cource watch/FoundationW";
+import JavaScriptW from './watch/JavaScriptW';
+import TypescriptW from "./watch/TypescriptW";
+import VueW from "./watch/VueW";
+import ReacttW from "./watch/ReacttW";
+import AngularW from "./watch/AngularW";
+import FoundationW from "./watch/FoundationW";
 
 import Tg from "./components/Routes/Project Watch/project/Tg";
 import X from "./components/Routes/Project Watch/project/X";

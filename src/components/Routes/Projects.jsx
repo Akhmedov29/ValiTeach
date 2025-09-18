@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import { ProjectsLinks } from "../../constants/Projects";
-import { FaArrowRight } from "react-icons/fa";
 
 const Projects = ({ limit }) => {
   // Agar limit berilgan bo‘lsa, shunga ko‘ra filter qilamiz
